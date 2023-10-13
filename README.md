@@ -65,7 +65,7 @@
 
 > 𝗚𝗜𝗧𝗛𝗨𝗕 𝗔𝗪𝗔𝗥𝗗𝗦
 
-![trophy](https://github-profile-trophy.vercel.app/?username=cracker911181&row=2&column=3)
+![cracker911181's Stats](https://github-readme-stats.vercel.app/api?username=cracker911181&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 <br><br>
 
 <b>
