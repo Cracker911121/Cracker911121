@@ -67,7 +67,7 @@
 
 ![Cracker911121's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cracker911121&theme=midnight-purple&hide_border=true)
 ![Cracker911121's Stats](https://github-readme-stats.vercel.app/api?username=Cracker911121&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
-
+![Cracker911121's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cracker911121&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
 <br><br>
 
 
@@ -80,14 +80,6 @@
 
 
 
-
-
-
-
-<img src="https://img.icons8.com/color/30/kali-linux" height="30"/>![Windows](https://img.icons8.com/color/30/windows-10.png)![Linux](https://img.icons8.com/color/30/linux.png)<img src="https://i.top4top.io/p_2100q9x921.png" height="30px"/>
-<img src="https://i.top4top.io/p_2100381jm1.png" height="30px"/>
- <br><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=green"/>
-<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=green"/>
 
 <br>
 
@@ -128,9 +120,7 @@
 
 <br><br>
 
-<a href="https://github.com/cracker911181/Cracker-Tool"><img title="CRACKER-TOOL" src="https://github-readme-stats.vercel.app/api/pin/?username=cracker911181&repo=CRACKER-TOOL&theme=redical"></a>
-<a href="https://github.com/cracker911181/cracker-RDP"><img title="cracker-RDP" src="https://github-readme-stats.vercel.app/api/pin/?username=cracker911181&repo=cracker-RDP&theme=redical"/></a>
-<a href="https://github.com/cracker911181/Cracker_say"><img title="CRACKER_say" src="https://github-readme-stats.vercel.app/api/pin/?username=cracker911181&repo=CRACKER_say&theme=redical"/></a>
+
 
 <br>
 <b>
