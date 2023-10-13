@@ -65,7 +65,7 @@
 
 > 𝗚𝗜𝗧𝗛𝗨𝗕 𝗔𝗪𝗔𝗥𝗗𝗦
 
-![cracker911181's Stats](https://github-readme-stats.vercel.app/api?username=cracker911181&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Cracker911121's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cracker911121&theme=midnight-purple&hide_border=true)
 <br><br>
 
 <b>
