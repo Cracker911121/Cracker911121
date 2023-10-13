@@ -66,7 +66,7 @@
 > 𝗚𝗜𝗧𝗛𝗨𝗕 𝗔𝗪𝗔𝗥𝗗𝗦
 
 ![Cracker911121's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cracker911121&theme=midnight-purple&hide_border=true)
-![Cracker911121's Stats](https://github-readme-stats.vercel.app/api?username=Cracker911121&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
+![Cracker911121's Stats](https://github-readme-stats.vercel.app/api?username=Cracker911121&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true) </br>
 ![Cracker911121's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cracker911121&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
 <br><br>
 
