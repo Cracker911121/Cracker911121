@@ -1,47 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?center=true&duration=3000&multiline=false&lines=Welcome+to+my+profile)](https://git.io/typing-svg)
 
-<pre>
-
-|================>HELLO PEOPLE<=====================|
-|					            |
-|        					    |
-|  _______________ABOUT MYSELF____________________  |
-| |					          | |
-| |-->	I'm <a href="https://www.facebook.com/cracker911181">CRACKER911181</a> 😎	     	          | |
-| |-->	I'm a Life Time Programmer🎉		  | |
-| |-->  I'm a Student☺️ and	                  | |
-| |-->  I'm a Bangladeshi Programmer & Pentester😙| |
-| |_______________________________________________| |
-| 						    |
-|  ______________________‼️‼️_______________________  |
-| |						  | |
-| |         CRACK YOUR WORLD, IF YOU CAN          | |
-| |	    Fuck Yourself to Hack Your World!	  | |
-| |_______________________________________________| |
-|  						    |
-|  _______________________________________________  |
-| |						  | |
-| |	             | @   @ |			  | |
-| |                   ———————			  | |
-| |                  |cracker|			  | |
-| |                   ———————			  | |
-| |              /\  |       |   /\\		  | |
-| |             // \——       ———/  \\		  | |
-| |        ____// crack your world  \\___	  | |
-| |						  | |
-| |     |==================================|	  | |
-| |     |        DON'T COPY MY STYLE       |	  | |
-| |     |==================================|	  | |
-| |_______________________________________________| |
-|                                                   |
-|  _________________CONTACT INFO__________________  |
-| |						  | |
-| | FB       :       <a href="https://www.facebook.com/cracker911181">CLICK HERE</a>		          | |
-| | TELEGRAM :       <a href="https://t.me/cracker911181">CLICK HERE</a>		          | |
-| |_______________________________________________| |
-|						    |
-=====================================================
-</pre>
+<div align="center">
+	<h1>Welcome to my github profile</h1>
+</div>
 
 <div align="center">
 <details>
