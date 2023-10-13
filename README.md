@@ -1,4 +1,3 @@
-
 <div align="center">
 	<h1>Welcome to my github profile</h1>
 </div>
@@ -9,7 +8,7 @@
 
 
 
-> 𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 𝗙𝗢𝗥 𝗠𝗢𝗥𝗘 𝗜𝗡𝗙𝗢𝗥𝗠𝗔𝗧𝗜𝗢𝗡
+ 𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 𝗙𝗢𝗥 𝗠𝗢𝗥𝗘 𝗜𝗡𝗙𝗢𝗥𝗠𝗔𝗧𝗜𝗢𝗡
 
 </summary>
 	<br>
@@ -23,7 +22,7 @@
 
 
 
- 𝗚𝗜𝗧𝗛𝗨𝗕 𝗔𝗪𝗔𝗥𝗗𝗦
+𝗚𝗜𝗧𝗛𝗨𝗕 𝗔𝗪𝗔𝗥𝗗𝗦
 
 ![Cracker911121's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cracker911121&theme=midnight-purple&hide_border=true)
 ![Cracker911121's Stats](https://github-readme-stats.vercel.app/api?username=Cracker911121&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true) </br>
