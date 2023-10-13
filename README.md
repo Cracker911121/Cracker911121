@@ -66,7 +66,11 @@
 > 𝗚𝗜𝗧𝗛𝗨𝗕 𝗔𝗪𝗔𝗥𝗗𝗦
 
 ![Cracker911121's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cracker911121&theme=midnight-purple&hide_border=true)
+![Cracker911121's Stats](https://github-readme-stats.vercel.app/api?username=Cracker911121&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
+
 <br><br>
+
+
 
 <b>
 
@@ -102,16 +106,16 @@
 
 </b>
 <br>
-<!--
+
 ![BASH](https://img.shields.io/badge/-BASH-black?style=flat-square&logo=BASH)
 ![PYTHON](https://img.shields.io/badge/-PYTHON-black?style=flat-square&logo=PYTHON)
--->
 
-<!--
+
+
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/shell%20-%2300599C.svg?&style=for-the-badge&logo=shellogoColor=white"/>
 <img src="https://img.shields.io/badge/c%20-%23239120.svg?&style=for-the-badge&logo=c&logoColor=white"/>
--->
+
 
 <img src="https://c.top4top.io/p_2102fowu61.png" height="30px" />
 <img src="https://b.top4top.io/p_21009ftxj1.png" height="30px"/>
