@@ -23,7 +23,7 @@
 
 
 
-> 𝗚𝗜𝗧𝗛𝗨𝗕 𝗔𝗪𝗔𝗥𝗗𝗦
+ 𝗚𝗜𝗧𝗛𝗨𝗕 𝗔𝗪𝗔𝗥𝗗𝗦
 
 ![Cracker911121's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cracker911121&theme=midnight-purple&hide_border=true)
 ![Cracker911121's Stats](https://github-readme-stats.vercel.app/api?username=Cracker911121&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true) </br>
@@ -36,7 +36,7 @@
 
 
 
-> TECNOLOGIES</b>
+ TECNOLOGIES</b>
 
 
 
@@ -52,7 +52,7 @@
 
 
 
-> LAUNGUAGES
+ LAUNGUAGES
 
 
 
@@ -86,7 +86,7 @@
 <b>
 
 
-> PROFILE VISITORS
+ PROFILE VISITORS
 
 </b>
 
